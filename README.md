@@ -1,5 +1,4 @@
-
-Hi this is my first lab that i am working on and i seems very cool
+I have Complete Lab 2 Finally ..
 
 # Software Engineering Methods
 - Master build Status [![Build Status](https://travis-ci.org/mikesobers/sem.svg?branch=main)](https://travis-ci.org/mikesobers/sem)
